@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SmartGarbage</string>
+    <string name="sign_in">Email</string>
+    <string name="password">Password</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>

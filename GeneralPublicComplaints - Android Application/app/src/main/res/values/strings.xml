@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">KnowYourTrash</string>
+
+    <string-array name="complaints">
+        <item>Improper Disposal of Garbage</item>
+        <item>Garbage Overflow over dumpster</item>
+        <item>Garbage left uncollected</item>
+        <item>Foul Smell</item>
+        <item>Dumpster Broken</item>
+        <item>Other reasons</item>
+    </string-array>
+
+</resources>

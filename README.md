@@ -11,6 +11,17 @@ This application holds the feature of reporting complaints about the overflow of
 
 This application uses Google Maps API to locate all the points where the truck driver has to collect the garbage and it priortizes the location based on the dumpster's overflow ratio.The data for this application comes in from the central base which has records for both public's complaint also the data from IoT kits attached with the dumpsters. 
 
+## IoT Kit
+
+The IOT kit is installed on the lid of the trash can. This kit includes sensors to measure the level of garbage in each dumpster along with it’s location. It raises an alarm to the corresponding truck driver through the system such as corporation of the city. So an interface at the central level is made to receive complaints from the general public and also the locations alerted by our automation IoT  kit. Both,together will enhance the complete automation of the garbage monitoring system. Also disposal is being captured by a raspberry pi, an object detection model is trained to detect the presence and location of the trash, if any , around the trash can. This way the cleanliness of the surrondings of the trash can also be maintained.
+
+
+## Screenshots
+
+<p float="left">
+<img src="https://github.com/barath83/Smart-Garbage-Disposal-and-Monitoring-System/blob/master/images/iot-kit.jpeg" width="450" height="400" >
+</p>
+
 ## Co-Creators
 
 <p>Raahul Kalyaan J - <span><a href="https://github.com/Raahul46"/>Raahul46</span></a></p>

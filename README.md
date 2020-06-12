@@ -26,5 +26,6 @@ The IOT kit is installed on the lid of the trash can. This kit includes sensors 
 
 <p>Raahul Kalyaan J - <span><a href="https://github.com/Raahul46"/>Raahul46</span></a></p>
 <p>Janani VI - <span><a href="https://github.com/Janani216"/>Janani216</span></a></p>
+<p>Hareedaran Bharathi - <span><a href="https://github.com/hareedharanb"/>hareedharanb</span></a></p>
 
 
